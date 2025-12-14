@@ -57,6 +57,7 @@ demo_comprehensive.epi
 test_metadata_*.epi
 test_steps_*.epi
 test_recording_*.epi
+demo_output.txt
 system_test_recording.epi
 
 # Acceptance Tests & Debugging
